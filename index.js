@@ -121,8 +121,8 @@ app.get("/", (req, res) => {
 
 //home tab events
 app.get("/api/events", async (req, res) => {
-  const tab = req.query.tab || "today"; // 디폴트 탭 설정
-  const date = req.query.date || new Date().toISOString().split("T")[0]; // 디폴트 날짜 설정
+  const tab = req.query.tab || "today";
+  const date = req.query.date || new Date().toISOString().split("T")[0];
 
   try {
     if (!req.session || !req.session.user_id) {
