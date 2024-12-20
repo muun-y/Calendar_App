@@ -4,22 +4,22 @@ _A web application designed to help users organize and manage their schedules, e
 
 ## 1. Features
 
-- **Image Hosting**: Upload and share images within threads.
-- **Text Sharing**: Post and format text-based comments or discussions.
-- **Nested Comments**: Reply to posts and create threaded conversations.
-- **User Authentication**: Secure login and signup for thread participation.
-- **Search Functionality**: Search for threads, posts, or users.
-- **Like Functionality**: Show appreciation for threads, posts, or comments by liking them.
-- **User-Friendly Interface**: Intuitive design for smooth navigation and interaction.
+- **Event Creation**: Add events and appointments to your calendar with details such as date, time, and description.
+- **Reminders**: Set reminders to get notifications for upcoming events or tasks.
+- **Recurring Events**: Schedule repeating events daily, weekly, or monthly.
+- **Event Categorization**: Organize events with categories or labels for better visibility.
+- **User Authentication**: Secure login and signup to access personalized calendars.
+- **Search Functionality**: Quickly search for specific events or appointments.
+- **User-Friendly Interface**: Intuitive design for seamless navigation and management.
 
 ## 2. How to Use
 
-1. **Sign Up**: Create an account to join the community.
-2. **Create Threads**: Start new discussions by creating a thread.
-3. **Post Comments**: Add comments to threads and reply to others' posts.
-4. **Upload Media**: Attach images or files to enrich your discussions.
-5. **Search**: Use the search bar to find specific threads or users.
-6. **Like**: Interact with posts by liking them to show appreciation or agreement.
+1. **Sign Up**: Create an account to personalize your calendar.
+2. **Add Events**: Click on a date to create a new event with details like time, location, and description.
+3. **Set Reminders**: Add reminders to ensure you never miss an important event.
+4. **Organize**: Categorize your events using labels or tags.
+5. **Search**: Use the search bar to quickly find specific events or appointments.
+6. **Manage**: Edit or delete events directly from your calendar interface.
 
 ## 3.Techniques and Libraries
 
